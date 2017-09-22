@@ -30,7 +30,7 @@ ostream& operator <<(ostream& os, Achtung& as){
 // no fuck YOU
 //NO
 //FUCK YOU
-//JUMPS FUR DAYZ
+//JUMPS FUR DAYS
 // ^^ confirmed
 //DAYZ is trash
 
